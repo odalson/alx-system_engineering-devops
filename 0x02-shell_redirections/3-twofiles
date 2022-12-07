@@ -1,2 +1,2 @@
 #!/bin/bash
-cat passwd hosts
+echo etc/passwd: hosts
